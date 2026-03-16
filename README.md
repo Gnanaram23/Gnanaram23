@@ -57,4 +57,3 @@ Exploring how **AI, data platforms, and product thinking** can help organization
 ## Connect With Me
 
 - LinkedIn: https://linkedin.com/in/gnanaram/
-- GitHub: https://github.com/YOUR-USERNAME
