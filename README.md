@@ -1,59 +1,48 @@
-# Hi, I'm Gnanaram 👋
+# Gnanaram M
 
-Management professional working at the intersection of **Life Sciences consulting, product thinking, and AI-driven solutions**. My work focuses on enabling growth initiatives, shaping solution capabilities, and translating complex industry problems into scalable data and AI solutions for Pharma and Biotech organizations.
+Solutions consultant in US pharma and biotech commercial strategy and market
+access. I turn commercial questions into data, models and product concepts:
+who to target, what a policy change costs, how fast a brand will erode, and
+what a better tool for the team would look like.
 
-I have experience supporting **large consulting proposals, solution development initiatives, and product PoCs** across commercial and clinical domains.
+## Featured work
 
----
+### [US Pharma Commercial Analytics](https://github.com/Gnanaram23/us-pharma-commercial-analytics)
+Four end-to-end case studies on free public US government data (CMS Medicare,
+Medicaid, FDA, ClinicalTrials.gov). Each has the data pull, Python analysis, a
+rendered notebook and a written recommendation.
 
-## What I Work On
+| Project | Question | Headline result |
+|---|---|---|
+| [GLP-1 market & prescriber targeting](https://github.com/Gnanaram23/us-pharma-commercial-analytics/tree/main/01-glp1-market-and-targeting) | Where is GLP-1 growth left in Medicare, and which prescribers come first? | $27.9B market growing 40% a year; 6,700 prescribers hold half of a 4M-claim opportunity |
+| [IRA negotiation exposure](https://github.com/Gnanaram23/us-pharma-commercial-analytics/tree/main/02-ira-negotiation-exposure) | Who loses most from Medicare price negotiation, and who is next? | $21–25B a year in net impact; selection screen picked 11 of 15 actual picks in back-tests |
+| [Loss-of-exclusivity forecast](https://github.com/Gnanaram23/us-pharma-commercial-analytics/tree/main/03-loe-erosion-forecast) | How fast do brands erode, and what happens to Eliquis in 2028? | Two erosion regimes in Medicaid; Eliquis's free-to-Medicaid deal points to brand retention |
+| [Obesity pipeline intelligence](https://github.com/Gnanaram23/us-pharma-commercial-analytics/tree/main/04-obesity-pipeline-intelligence) | Who competes in US obesity by 2030? | About 10 new approvals expected, almost all in 2029–2030 |
 
-- Solution conceptualization for Life Sciences use cases  
-- AI and data-driven product ideas  
-- Product PoCs and MVP development  
-- Growth initiatives and consulting capabilities  
-- Translating industry problems into scalable solutions  
+### [Life Sciences Product Concepts](https://github.com/Gnanaram23/Product-Concepts---Commercial-)
+Four product concepts taken from problem statement to PRD to clickable prototype:
 
----
+- **Cortex:** an AI assistant that answers commercial analytics questions with traceable, governed data
+- **Pharma Action Builder:** Next Best Action recommendations for field teams, plus a no-code model workbench
+- **ClearAuth:** a prior authorization platform for providers, patients and payers
+- **GVD Process Map:** the end-to-end process for building a Global Value Dossier
 
-## Areas of Interest
+## What I work on
 
-- AI Product Management  
-- Life Sciences Analytics  
-- Pharma Commercial Strategy  
-- Clinical Data & Research Analytics  
-- Product Strategy for Data & AI Solutions  
+- **Commercial analytics:** market sizing, prescriber segmentation and targeting, forecasting
+- **Market access:** IRA and Medicare policy impact, payer dynamics, loss-of-exclusivity planning
+- **Product and AI:** turning a workflow problem into requirements, prototypes and an AI use case
+- **Consulting:** solution design, proposals and stakeholder workshops for pharma and biotech clients
 
----
+## Tools
 
-## Skills
+Python (pandas, SciPy, matplotlib) · Jupyter · GitHub Actions ·
+public healthcare data (CMS Medicare, Medicaid SDUD, openFDA, ClinicalTrials.gov) ·
+AI-assisted prototyping (Lovable, Replit)
 
-**Product & AI**
-- Product ideation and solution conceptualization  
-- MVP and PoC development  
-- AI use case discovery and prioritization  
-- Product roadmap thinking  
-- Cross-functional collaboration  
+## Background
 
-**Consulting & Growth**
-- Strategic solutioning  
-- Proposal development and RFP response  
-- Account expansion initiatives  
-- Client workshops and solution demonstrations  
+PGDM (Marketing, Analytics and Operations), Great Lakes Institute of Management ·
+B.Tech Mechanical Engineering, Amrita Vishwa Vidyapeetham · Based in Chennai, India
 
-**Analytics & Platforms**
-- Data and AI solution frameworks  
-- Commercial analytics use cases  
-- Data platforms and analytics solutions  
-
----
-
-## Current Focus
-
-Exploring how **AI, data platforms, and product thinking** can help organizations in the Life Sciences ecosystem build scalable capabilities and accelerate innovation.
-
----
-
-## Connect With Me
-
-- LinkedIn: https://linkedin.com/in/gnanaram/
+[LinkedIn](https://linkedin.com/in/gnanaram/)
