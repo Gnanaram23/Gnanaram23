@@ -10,7 +10,8 @@ what a better tool for the team would look like.
 ### [US Pharma Commercial Analytics](https://github.com/Gnanaram23/us-pharma-commercial-analytics)
 Four end-to-end case studies on free public US government data (CMS Medicare,
 Medicaid, FDA, ClinicalTrials.gov). Each has the data pull, Python analysis, a
-rendered notebook and a written recommendation.
+rendered notebook, a written recommendation, and a machine learning or advanced
+analytics extension tested on data it has not seen.
 
 | Project | Question | Headline result |
 |---|---|---|
@@ -36,7 +37,8 @@ Four product concepts taken from problem statement to PRD to clickable prototype
 
 ## Tools
 
-Python (pandas, SciPy, matplotlib) · Jupyter · GitHub Actions ·
+Python (pandas, scikit-learn, SciPy, matplotlib) · gradient boosting, regression,
+clustering, Bayesian and Monte Carlo methods · Jupyter · GitHub Actions ·
 public healthcare data (CMS Medicare, Medicaid SDUD, openFDA, ClinicalTrials.gov) ·
 AI-assisted prototyping (Lovable, Replit)
 
