@@ -21,12 +21,12 @@ analytics extension tested on data it has not seen.
 | [Obesity pipeline intelligence](https://github.com/Gnanaram23/us-pharma-commercial-analytics/tree/main/04-obesity-pipeline-intelligence) | Who competes in US obesity by 2030? | About 10 new approvals expected, almost all in 2029–2030 |
 
 ### [Life Sciences Product Concepts](https://github.com/Gnanaram23/Product-Concepts---Commercial-)
-Four product concepts taken from problem statement to PRD to clickable prototype:
+Four product concepts, each taken from problem statement to PRD to a working prototype. **[Try them in your browser](https://gnanaram23.github.io/Product-Concepts---Commercial-/)**.
 
-- **Cortex:** an AI assistant that answers commercial analytics questions with traceable, governed data
-- **Pharma Action Builder:** Next Best Action recommendations for field teams, plus a no-code model workbench
-- **ClearAuth:** a prior authorization platform for providers, patients and payers
-- **GVD Process Map:** the end-to-end process for building a Global Value Dossier
+- **Cortex:** governed AI analytics. A semantic layer turns plain-English questions about rebates and gross-to-net into SQL, and every answer comes with its query and sources.
+- **ClearAuth:** a prior authorization platform for providers, patients and payers, with a coverage-policy engine that checks each request against plan criteria.
+- **Pharma Action Builder:** Next Best Action for HCP engagement. It trains gradient boosting, random forest and other models in the browser and picks each HCP's best tactic by expected value.
+- **GVD Process Map:** the end-to-end process for building a Global Value Dossier.
 
 ## What I work on
 
@@ -37,7 +37,7 @@ Four product concepts taken from problem statement to PRD to clickable prototype
 
 ## Tools
 
-Python (pandas, scikit-learn, SciPy, matplotlib) · gradient boosting, regression,
+Python (pandas, scikit-learn, SciPy, matplotlib) · TypeScript, React, Node.js, SQL · gradient boosting, regression,
 clustering, Bayesian and Monte Carlo methods · Jupyter · GitHub Actions ·
 public healthcare data (CMS Medicare, Medicaid SDUD, openFDA, ClinicalTrials.gov) ·
 AI-assisted prototyping (Lovable, Replit)
